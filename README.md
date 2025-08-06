@@ -1,7 +1,13 @@
 # PROYECTO FINAL ANALISIS DE DATOS
 
-\#PROYECTO DE BI  https://github.com/M3ANMAXINE/Proyecto-BI
+\#PROYECTO DE BI  
 **VENTA DE PRODUCTOS**
+
+
+
+https://github.com/M3ANMAXINE/Proyecto-BI
+
+https://www.youtube.com/watch?v=x25fuc9d2Ln
 
 
 
